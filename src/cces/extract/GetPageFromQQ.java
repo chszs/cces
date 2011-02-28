@@ -1,13 +1,13 @@
 /**
- * ÏîÄ¿Ãû³Æ:	MyCrawler
- * ÀàÃû³Æ:	ClientWithResponseHandler   
- * ÀàÃèÊö:	
- * ´´½¨ÈË:	Li Qiang.    qiang-4.li@changhong.com
- * ´´½¨Ê±¼ä:	2011-2-24 ÏÂÎç09:23:34
- * ĞŞ¸ÄÈË:	Administrator
- * ĞŞ¸ÄÊ±¼ä:	2011-2-24 ÏÂÎç09:23:34
- * ĞŞ¸Ä±¸×¢:	
- * °æÈ¨ËùÓĞ:	Li Qiang.(c) 2011
+ * é¡¹ç›®åç§°:	MyCrawler
+ * ç±»åç§°:	ClientWithResponseHandler   
+ * ç±»æè¿°:	
+ * åˆ›å»ºäºº:	Li Qiang.    qiang-4.li@changhong.com
+ * åˆ›å»ºæ—¶é—´:	2011-2-24 ä¸‹åˆ09:23:34
+ * ä¿®æ”¹äºº:	Administrator
+ * ä¿®æ”¹æ—¶é—´:	2011-2-24 ä¸‹åˆ09:23:34
+ * ä¿®æ”¹å¤‡æ³¨:	
+ * ç‰ˆæƒæ‰€æœ‰:	Li Qiang.(c) 2011
  * @version	
  */
 package cces.extract;

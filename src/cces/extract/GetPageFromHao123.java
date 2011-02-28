@@ -16,15 +16,15 @@ import org.apache.http.client.HttpClient;
 import org.apache.http.client.methods.HttpGet;
 import org.apache.http.impl.client.DefaultHttpClient;
 /**
- * ×¥È¡ÍøÒ³
+ * æŠ“å–ç½‘é¡µ
  */
 public class GetPageFromHao123 {
 	/**
-	 * ×¥È¡ÍøÒ³
-	 * @param url ¸ø¶¨URLµØÖ·
-	 * @return °ÑÕû¸öÍøÒ³µÄÄÚÈİ×÷Îª×Ö·û´®·µ»Ø
-	 * @throws UnsupportedEncodingException ²»Ö§³ÖµÄ±àÂëÒì³£
-	 * @throws Exception ÆäËüÒì³£
+	 * æŠ“å–ç½‘é¡µ
+	 * @param url ç»™å®šURLåœ°å€
+	 * @return æŠŠæ•´ä¸ªç½‘é¡µçš„å†…å®¹ä½œä¸ºå­—ç¬¦ä¸²è¿”å›
+	 * @throws UnsupportedEncodingException ä¸æ”¯æŒçš„ç¼–ç å¼‚å¸¸
+	 * @throws Exception å…¶å®ƒå¼‚å¸¸
 	 */
 	public String getPageFromHttpGet(String url) throws UnsupportedEncodingException{
 		String htmlDoc = "";
