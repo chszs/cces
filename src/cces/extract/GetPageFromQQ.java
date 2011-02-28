@@ -1,11 +1,11 @@
 /**
- * 项目名称:	MyCrawler
- * 类名称:	ClientWithResponseHandler   
+ * 项目名称:	CCES
+ * 类名称:	GetPageFromQQ   
  * 类描述:	
- * 创建人:	Li Qiang.    qiang-4.li@changhong.com
- * 创建时间:	2011-2-24 下午09:23:34
- * 修改人:	Administrator
- * 修改时间:	2011-2-24 下午09:23:34
+ * 创建人:	Li Qiang
+ * 创建时间:	2011-2-24
+ * 修改人:	Li Qiang
+ * 修改时间:	2011-2-28
  * 修改备注:	
  * 版权所有:	Li Qiang.(c) 2011
  * @version	
